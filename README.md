@@ -22,15 +22,13 @@ Try entering fullscreen using `Alt+Enter`.
 
 I say with great emphasis, as this seems to be a common misconception, that Roblox FPS Unlocker is an FPS _unlocker_ and not a _booster_. It will not boost Roblox's performance in any way and only removes Roblox's 60 FPS limit. To take advantage of RFU, a computer powerful enough to run Roblox at more than 60 FPS is required.
 
-This being said, if you know your computer is powerful enough but still aren't seeing higher framerates with the unlocker, feel free to [submit an issue](https://github.com/axstin/rbxfpsunlocker/#submitting-an-issue).
+This being said, if you know your computer is powerful enough but still aren't seeing higher framerates with the unlocker.
 
 5. **Can I set a custom framerate cap?**
 
 You can create your own list of FPS cap values by editing the `FPSCapValues` array inside the `settings` file located in the same folder as `rbxfpsunlocker.exe`.
 
 6. **Does this work for Mac?**
-
-No. Roblox FPS Unlocker was written only for the Windows platform and I [currently have no plans to change this](https://github.com/axstin/rbxfpsunlocker/issues/49).
 
 **Update:** A Mac version developed and maintained by [lanylow](https://github.com/lanylow) can be found [here!](https://github.com/lanylow/rbxfpsunlocker-osx)
 
@@ -40,7 +38,7 @@ This error means Roblox FPS Unlocker could not connect to the Internet to check 
 
 8. **Why do I get a "Variable scan failed" error?**
 
-This means RFU was unable to find the internal variable responsible for uncapping Roblox's framerate. This might happen if another program has already edited the value (e.g. an exploit). Please verify that your framerate is at a stable ~60.0 FPS (Shift+F5) before using the unlocker. If it is and the error still occurs, please [submit an issue](https://github.com/axstin/rbxfpsunlocker/#submitting-an-issue).
+This means RFU was unable to find the internal variable responsible for uncapping Roblox's framerate. This might happen if another program has already edited the value (e.g. an exploit). Please verify that your framerate is at a stable ~60.0 FPS (Shift+F5) before using the unlocker. If it is and the error still occurs.
 
 9. **How do I uninstall Roblox FPS Unlocker?**
 
